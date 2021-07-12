@@ -1,0 +1,200 @@
+.body{
+    background-color: #212529!important;
+}
+.body1{
+    background-color: #1B1C1D; 
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+    margin-top: 3rem;
+    color: white;
+}
+.grey{color:rgb(190, 189, 186);
+}
+.kazi{
+   
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: #FFF;
+}
+
+.back{
+    background-color: white;
+
+}
+.bangla{
+    padding-top: 14rem;
+    padding-bottom: 12rem;
+}
+
+.jumbotron
+{
+background-color: #1B1C1D !important;
+border-radius: 0 !important;
+height: 70vh !important;
+
+}
+.flex1{
+    display: flex !important;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+}
+
+
+.blockquote{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 4rem;
+    padding-top: 4rem;
+    color: white;
+
+}
+.footer{
+    display: flex !important;
+    justify-content: center !important;
+    font-size: larger !important;
+    color: #FFF !important;
+}
+.back1{
+     width: 103%;
+}
+.center{
+    background-color: white;
+    margin-top: 8rem;
+    padding-top: 8rem;
+}
+.love{
+    font-weight: bold;
+   
+}  
+.main body{
+    width: 23rem;
+    
+    height: 22rem;
+   
+    padding-right: 0.5rem;
+    
+}
+.star{
+    margin-left: 15%;
+       font-weight: bold;
+       font-size: 150%;
+       color: #1B1C1D
+    }
+.line{
+    border-bottom:1px solid;
+    width : 50%;
+    }
+
+ 
+.hrline{
+        display: flex;
+        margin-top: 2rem;
+        align-items: center;
+        
+    }    
+
+
+ .img{
+    height : 25rem;
+    width : 75%;
+    margin-left: 4em;
+    margin-top: 2em;
+ }
+ .achievements{
+    font-size: 125%;
+
+ }
+ .achievements1{
+    color: rgb(173, 173, 173);
+
+ }
+ .achievements2{
+    color: rgba(131, 128, 128, 0.97); 
+    font-size: 85%; 
+    font-weight: 100;
+
+ }
+ .borders{
+    border-collapse: collapse; 
+    border: 1px solid lightgray;
+    margin: 1%; 
+    border-radius: 2%;
+
+ }
+.poem{
+    
+    font-size: 1.5rem;
+    font-weight: 500;
+    color:#1B1C1D;
+ }
+
+
+.col-sm-4,.col-sm-2{
+    color: white;
+}
+.button{
+    padding-bottom: 5rem;
+    padding-top: 1rem;
+    margin-top: 0rem;
+    background-color: white;
+}
+.links{
+    padding-left: 30%;
+    /* display: flex;
+    justify-content: center; */
+    margin-top: 3rem;
+    
+
+}
+
+#colsm4{
+    margin-left: 10rem;
+}
+#colsm5{
+    margin-left: 3rem;
+
+
+}
+#colsm{
+    margin-left: -1rem;
+}
+#colmd{
+    margin-left: 3rem;
+}
+.songs{
+    width: 12rem;
+    color: #1B1C1D;
+    font-weight: 500;
+    
+}
+.fontstr{
+    font-weight: 100;
+}  
+    
+
+
+@media only screen and (max-width: 768px){
+    .navbar-toggler{
+        background-color:#1B1C1D !important;
+    }
+    .img{
+        width: 20rem;
+       margin-left: 0.5rem;
+}
+.links{
+    padding-left: 0%;
+}
+    }
+
+
+@media only screen and (min-width: 992px){
+
+   .img{
+       width: auto;
+   }
+}
+
